@@ -8,7 +8,6 @@ class Header extends Component {
             <div >
             <div className="container">
                 <div className="row">
-                    
                         <img src ={require ("../images/logom.jpeg")} class ="logo1" />
                             <ul className="linkss">
                             <li className="nav-item">
